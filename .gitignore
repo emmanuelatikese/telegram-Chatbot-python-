@@ -1,0 +1,16 @@
+# Compiled Python bytecode
+*.pyc
+
+# Compiled Cython files
+*.pyd
+*.so
+
+# Ignore test files
+*_test.py
+
+# Ignore configuration files
+*.env
+config.txt
+
+# Ignore virtual environments
+.venv/
